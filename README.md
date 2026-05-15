@@ -1,4 +1,4 @@
-# Superstore-Sales-Performance-Dashboard
+# Superstore-Sales-Dashboard
 Interactive Excel dashboard analyzing Superstore sales, profitability, discounts, customer segments, and shipping performance.
 ## Project Objective
 This project aims to analyze the sales performance of a retail superstore business from 2014 to 2017 using Excel.

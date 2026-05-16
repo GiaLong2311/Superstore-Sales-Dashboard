@@ -11,7 +11,7 @@ The dashboard was designed to identify key business drivers affecting:
     + Shipping efficiency
 The goal is to transform raw transactional data into actionable business insights through interactive data visualization and dashboard storytelling.
 ## Dataset Used
-- <a href="https://github.com/GiaLong2311/Superstore-Sales-Dashboard/blob/main/Superstore_Raw_Data.csv">Dataset</a>
+- <a href="https://github.com/GiaLong2311/Superstore-Sales-Dashboard/blob/main/superstore-raw-data.xlsx">Dataset</a>
 - Dataset characteristics:
     + Time period: January 2014 – December 2017
     + Geographic scope: United States
@@ -69,8 +69,15 @@ Created Pivot Tables for:
 - Pivot Tables
 - Pivot Charts
 - Slicers & Timeline Filters
+## Skills Demonstrated
+- Data Cleaning
+- Dashboard Design
+- Data Storytelling
+- Business Analysis
+- Data Visualization
 ## Dashboard Preview
-<img width="1987" height="907" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/97872f75-960e-4890-bd65-79939485174a" />
+<img width="1987" height="907" alt="dashboard-preview" src="https://github.com/user-attachments/assets/e1b238c4-00d2-4fbf-beb0-1d4f751dc429" />
+
 
 ## Key Insights
 - Sales peak during September, November, and December, indicating a strong seasonal demand period in Q4.
